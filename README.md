@@ -19,9 +19,9 @@
 
 <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
-<img align="left" alt="MySQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="MySQL" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 
----
+-----
 
 [![Manzuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manzukoo)](https://github.com/anuraghazra/github-readme-stats)
 <!-- LINKS -->
