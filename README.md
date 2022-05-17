@@ -1,24 +1,3 @@
-``` 
-                            \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|        <------- Manzukoo.. BB <3
-           ,','|          /       ,'/////|
----------,','  |         (,         /////
-         ||    |          \\      //''''|
-         ||    |           |           _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
 ### [Manzuko][website] 👋
 
 --- 
@@ -45,9 +24,6 @@ _____________|','   ///_/-------------/   |
 ---
 
 [![Manzuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manzukoo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Spotify](https://spotify-now-playing-one-blue.vercel.app/)](https://open.spotify.com/user/USER_NAME)
-
 <!-- LINKS -->
 [website]: ...
 [ig]: https://www.instagram.com/bautista_rucci
