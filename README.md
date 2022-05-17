@@ -46,7 +46,7 @@ _____________|','   ///_/-------------/   |
 
 [![Manzuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manzukoo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://manzukoo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-one-blue.vercel.app/)](https://open.spotify.com/user/USER_NAME)
 
 <!-- LINKS -->
 [website]: ...
